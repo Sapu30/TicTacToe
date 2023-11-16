@@ -20,7 +20,7 @@ Enums: Used to represent different game states<br>
 Array Usage: Managed the game state using a 2D array<br>
 Dialog Boxes: Utilized JOptionPane for user interaction<br>
 
-
+<br><br>
 <img class="" src="img/XWins.jpeg" width="600" height="700" />
 <img class="" src="img/ZWins.jpeg" width="600" height="700" />
 <img class="" src="img/Tie.jpeg" width="600" height="700" />
