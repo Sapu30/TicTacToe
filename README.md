@@ -11,15 +11,14 @@ Incorporated graphics and font customization to enhance the visual appeal of the
 
 
 <h3>Technologies and Skills Used:</h3>
-
--> Programming Language: Java <br>
--> GUI Development: Java Swing library<br>
--> Event Handling: ActionListener interfaces<br>
--> Layout Management: BorderLayout and GridLayout<br>
--> Graphics and Fonts: Java Font class, Color customization<br>
--> Enums: Used to represent different game states<br>
--> Array Usage: Managed the game state using a 2D array<br>
--> Dialog Boxes: Utilized JOptionPane for user interaction<br>
+Programming Language: Java <br>
+GUI Development: Java Swing library<br>
+Event Handling: ActionListener interfaces<br>
+Layout Management: BorderLayout and GridLayout<br>
+Graphics and Fonts: Java Font class, Color customization<br>
+Enums: Used to represent different game states<br>
+Array Usage: Managed the game state using a 2D array<br>
+Dialog Boxes: Utilized JOptionPane for user interaction<br>
 
 
 <img class="" src="img/XWins.jpeg" width="600" height="700" />
