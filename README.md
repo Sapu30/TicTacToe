@@ -8,16 +8,18 @@ Designed and implemented the GUI layout using Swing components, providing an int
 Implemented event handling to capture user interactions, allowing seamless gameplay.
 Utilized layout managers for effective organization of components, ensuring a responsive and aesthetically pleasing design.
 Incorporated graphics and font customization to enhance the visual appeal of the game.
-Technologies and Skills Used:
+
+
+<h3>Technologies and Skills Used:</h3>
 
 -> Programming Language: Java <br>
--> GUI Development: Java Swing library
--> Event Handling: ActionListener interfaces
--> Layout Management: BorderLayout and GridLayout
--> Graphics and Fonts: Java Font class, Color customization
--> Enums: Used to represent different game states
--> Array Usage: Managed the game state using a 2D array
--> Dialog Boxes: Utilized JOptionPane for user interaction
+-> GUI Development: Java Swing library<br>
+-> Event Handling: ActionListener interfaces<br>
+-> Layout Management: BorderLayout and GridLayout<br>
+-> Graphics and Fonts: Java Font class, Color customization<br>
+-> Enums: Used to represent different game states<br>
+-> Array Usage: Managed the game state using a 2D array<br>
+-> Dialog Boxes: Utilized JOptionPane for user interaction<br>
 
 
 <img class="" src="img/XWins.jpeg" width="600" height="700" />
