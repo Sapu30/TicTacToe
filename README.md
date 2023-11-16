@@ -1,6 +1,6 @@
 # TicTacToe
 
-<h2>Description:</h2>
+<h4>Description:</h4>
 Developed a graphical user interface (GUI) based Tic-Tac-Toe game using Java and Swing library. The project aimed to create an interactive and visually appealing gaming experience.
 
 <h3>Key Contributions:</h3>
