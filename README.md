@@ -10,7 +10,7 @@ Utilized layout managers for effective organization of components, ensuring a re
 Incorporated graphics and font customization to enhance the visual appeal of the game.
 Technologies and Skills Used:
 
--> Programming Language: Java
+-> Programming Language: Java </n>
 -> GUI Development: Java Swing library
 -> Event Handling: ActionListener interfaces
 -> Layout Management: BorderLayout and GridLayout
