@@ -21,7 +21,7 @@ Array Usage: Managed the game state using a 2D array<br>
 Dialog Boxes: Utilized JOptionPane for user interaction<br>
 
 <br><br>
-<img class="" src="img/XWins.jpeg" width="300" height="400" />
-<img class="" src="img/ZWins.jpeg" width="300" height="400" />
-<img class="" src="img/Tie.jpeg" width="300" height="400" />
-<img class="" src="img/Restart.jpeg" width="300" height="400" />
+<img class="" src="img/XWins.jpeg" width="400" height="500" />
+<img class="" src="img/ZWins.jpeg" width="400" height="500" />
+<img class="" src="img/Tie.jpeg" width="400" height="500" />
+<img class="" src="img/Restart.jpeg" width="400" height="500" />
